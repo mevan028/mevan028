@@ -1,4 +1,4 @@
-## Research assistant @ ODU Vision Lab 🤖
+##🤖 Research assistant @ ODU Vision Lab
 My research interests involve autonomous vehicles, computer vision, robotics, and machine learning.
 
 <!--
