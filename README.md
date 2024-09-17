@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently applying for PhD programs
+My research interests involve autonomous vehicles, computer vision, robotics, and machine learning.
 
 <!--
 **mevan028/mevan028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
