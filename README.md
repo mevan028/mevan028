@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My research interests involve autonomous vehicles, computer vision, robotics, and machine learning.
+- Research assistant @ ODU Vision Lab
+- My research interests involve autonomous vehicles, computer vision, robotics, and machine learning.
 
 <!--
 **mevan028/mevan028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
