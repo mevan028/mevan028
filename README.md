@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently applying for PhD programs
+
 <!--
 **mevan028/mevan028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
